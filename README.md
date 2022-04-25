@@ -3,11 +3,11 @@
   <img src="img/logo.png"  width="120">
 <br>
 <br>
-SOMEC
+BestMilhas
 </h1>
 
 <p align="center">
-Sociedade de meio ambiente educação e cidadania em Belém, trabalha com edução e curso profissinalizante no interior do estado do Pará</p>
+Projeto de auste de passagens</p>
 
 <p align="center">
   <a href="#">
@@ -37,7 +37,7 @@ Usado do php puro, no servidor linux
 
 ## Modelos
 
-1. Todos os direito autoras pela Somec:<br />
+1. Todos os direito autoras pela Bestmilhas:<br />
 3. Modelo apenas ilustratorio<br />
 
 ### Equipe de desenvolvimento
