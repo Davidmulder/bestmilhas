@@ -1,13 +1,14 @@
 <h1 align="center">
 <br>
-  <img src="img/logo.png"  width="120">
+  <img src="https://bestmilhas.com/wp-content/uploads/2022/03/Png-Roxo_logo_sem-fundo.png"  width="200">
 <br>
 <br>
 BestMilhas
 </h1>
 
 <p align="center">
-Projeto de auste de passagens</p>
+Criação de tema em worpress para bestmilhas</p>
+Minha participação no projeto foi de Product Owner, gerenciando um equipe de programadores React, e de programador em wordpress criando Tema e plugin sobre o designer ja aprovado
 
 <p align="center">
   <a href="#">
@@ -26,9 +27,9 @@ Projeto de auste de passagens</p>
 
 ## Tecnologia usada
 
-Usado do php puro, no servidor linux 
+Usado do php puro, framework Wordpress:
 
-- ⚛️ **Javascript** — colocar o player do wnoza
+- ⚛️ **Wordpress** — Tema criado sobre o designer ja criado
 - ⚛️ **PHP** — PHP para servidor linux
 - 💹 **JQuery** — Animações
 - 💹 **MYSQL** — BD para conteudo
@@ -42,7 +43,7 @@ Usado do php puro, no servidor linux
 
 ### Equipe de desenvolvimento
 
-1. David orion (webdeveloper), Jairo Freitas (webdesigner)
+1. David orion (webdeveloper)
 
 
 
